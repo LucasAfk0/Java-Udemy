@@ -1,0 +1,56 @@
+public class Exerc10 {
+    public static void main (String[] args) {
+        
+    }
+}
+
+
+/// Media das Notas
+/*
+
+double nota1 = 7.5;
+        double nota2 = 8.0;
+        double nota3 = 6.5;
+
+        double Media = ( nota1 + nota2 + nota3 ) / 3;
+
+        System.out.printf ("%.2f%n" , Media); //println não suporta "%.2f%n" que serve para arredondar a media das notas
+
+*/
+
+/// Estoque de Padaria
+/*
+
+int quantidadeFarinha = 10 ;
+        int quantidadeAcucar = 5 ;
+
+        System.out.println("Quantidade de farinha disponivel: " + quantidadeFarinha ) ;
+        System.out.println("Quantidade de Açucar disponivel: " + quantidadeAcucar) ;
+
+*/
+
+
+/// Conversão do dolar
+/*
+
+double valorReais = 150.0 ;
+        double cotacaoDolar = 5.0 ;
+
+        double conversaoReais = valorReais / cotacaoDolar ;
+
+        System.out.println(conversaoReais) ;
+
+*/
+
+
+/// Calculo da Area do Retangulo
+/* 
+    double largura = 5.0 ;
+        double altura = 3.0 ;
+
+        double Area = largura * altura ;
+
+        System.out.println("A area de um retangulo com " + largura + " de largura e " + altura + " de altura é " + Area ) ;
+        
+*/
+
