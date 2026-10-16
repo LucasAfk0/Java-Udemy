@@ -58,7 +58,7 @@ int b = 10;
 /// Operadores Lógicos
 /*
 
-int a = 10;
+        int a = 10;
         int b = 20;
         boolean c = true;
 
